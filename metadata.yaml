@@ -1,0 +1,35 @@
+_repo: The-life-and-adventures-of-Alexander-Selkirk-the-real-Robinson-Crusoe-b-A-narrative-founded-o__70639
+_version: 0.0.1
+alternative_title: Selkirk and Starboard
+creator:
+  author:
+    agent_name: Howell, John
+    alias: Truck, Bill
+    birthdate: 1788
+    deathdate: 1863
+    gutenberg_agent_id: '55840'
+    url: http://www.gutenberg.org/2009/agents/55840
+    wikipedia: https://en.wikipedia.org/wiki/John_Howell_(polyartist)
+description: ''
+gutenberg_issued: '2023-04-24'
+identifiers:
+  gutenberg: '70639'
+language: en
+pgterms:marc905: 20220415193825howell
+pgterms:marc906: '1841'
+pgterms:marc907: US
+production_note: Bob Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bM. Day & Co., $c1841.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwreck survival -- Juvenile literature'
+- !lcsh 'Selkirk, Alexander, 1676-1721 -- Juvenile literature'
+- !lcsh 'Defoe, Daniel, 1661?-1731. Robinson Crusoe'
+- !lcc 'G'
+- GITenberg
+title: 'The life and adventures of Alexander Selkirk, the real Robinson Crusoe : $b
+  A narrative founded on facts. History of the wanderings of Tom Starboard.'
+url: http://www.gutenberg.org/ebooks/70639
