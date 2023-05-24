@@ -1,6 +1,9 @@
 _repo: The-life-and-adventures-of-Alexander-Selkirk-the-real-Robinson-Crusoe-b-A-narrative-founded-o__70639
 _version: 0.1.0
 alternative_title: Selkirk and Starboard
+covers:
+- cover_type: archival
+  image_path: 70639-h/images/cover.jpg
 creator:
   author:
     agent_name: Howell, John
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55840
     wikipedia: https://en.wikipedia.org/wiki/John_Howell_(polyartist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70639#The-life-and-adventures-of-Alexander-Selkirk-the-real-Robinson-Crusoe-b-A-narrative-founded-o_
 gutenberg_issued: '2023-04-24'
 identifiers:
   gutenberg: '70639'
